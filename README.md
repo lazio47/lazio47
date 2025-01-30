@@ -14,7 +14,7 @@ I’m constantly expanding my knowledge by taking online courses in IT, piano an
 - 📧 [Email](mailto:shelagost@gmail.com)
 
 ## 🚀 Featured Projects
-- 🔗 [Space 301](https://github.com/lazio47/space-301) - A fullstack application for real-time monitoring of rocket launches, featuring automated data generation, visualization, and alert systems.
+- 🔗 [Rocket Launch Monitoring]((https://github.com/lazio47/rocket-launch-monitoring) - A fullstack application for real-time monitoring of rocket launches, featuring automated data generation, visualization, and alert systems.
 - 🔗 [Secure Document Repository](https://github.com/lazio47/repository-for-documents) - A CLI system designed for organizations to securely store, manage, and share documents among authorized users.
 - 🔗 [Minimal Reddit](https://github.com/lazio47/reddit-minimal) - A lightweight frontend web application that allows users to view posts. It provides a simple yet effective platform to browse Reddit posts.
 
