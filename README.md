@@ -1,13 +1,5 @@
 ## 📌 About Me
-Hi there! 👋 I'm a Computer Engineering student in my final year, passionate about software development, cybersecurity, and problem-solving. My academic journey started in Mechanical Engineering, where I studied for 2.5 years before transitioning to Computer Engineering. This background gives me a unique perspective on analytical thinking and complex problem-solving.
-
-I’m constantly expanding my knowledge by taking online courses in IT, piano and languages. Throughout my journey, I have participated in national and international mathematics olympiads, which strengthened my logical reasoning and problem-solving skills. I also enjoy playing chess.
-
-### 💡 What I'm Up To:
-- 🔭 Finishing my Computer Engineering degree and diving deeper into software development.
-- 🌱 Learning advanced software engineering topics, cybersecurity, and multiple programming languages.
-- 👯 Actively seeking an internship in software engineering, where I can contribute, learn, and grow.
-<!-- - 🤔 Looking to deepen my knowledge in web development and cybersecurity. -->
+Hi there! 👋 I'm a Computer Engineering student.
 
 ## 🌐 Contact:
 - 🔗 [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/shelton-lazio-agostinho) 
@@ -23,7 +15,6 @@ I’m constantly expanding my knowledge by taking online courses in IT, piano an
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lazio47&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lazio47&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazio47&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
